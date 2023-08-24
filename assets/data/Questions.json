@@ -1,0 +1,54 @@
+{
+    "questions": [
+        {
+            "title": "Le plus grand animal est la girafe, \nelle peut mesurer jusqu’à ...",
+            "answer": ["2m", "4m", "6m"],
+            "goodAnswer": 2
+        },
+        {
+            "title": "L'animal le plus long dans la mer est ...",
+            "answer": ["La baleine bleue", "Le cachalot", "Le calamar géant"],
+            "goodAnswer": 0
+        },
+        {
+            "title": "L'animal le plus lourd est ...",
+            "answer": ["Le rhinocéros blanc", "L'éléphant d'Afrique", "La baleine bleue"],
+            "goodAnswer": 2
+        },
+        {
+            "title": "L'animal le plus lent est ...",
+            "answer": ["L'étoile de mer", "L'escargot", "L'hérisson"],
+            "goodAnswer": 1
+        },
+        {
+            "title": "L'animal le plus rapide est ...",
+            "answer": ["Le springbok (antilope)", "Le faucon pèlerin", "Le guépard"],
+            "goodAnswer": 1
+        },
+        {
+            "title": "Quel est l'animal le plus mortel \npour l'homme ?",
+            "answer": ["Le moustique", "Le serpent", "Le scorpion"],
+            "goodAnswer": 0
+        },
+        {
+            "title": "Quel animal a le plus de dents ?",
+            "answer": ["Le requin", "Le tigre", "L'hippopotame"],
+            "goodAnswer": 0
+        },
+        {
+            "title": "Quel est l'oiseau avec la plus \ngrande envergure ?",
+            "answer": ["L'aigle royal", "Le vautour", "Le condor des Andes"],
+            "goodAnswer": 2
+        },
+        {
+            "title": "Quel est le mammifère le plus \ndangereux pour l'homme ?",
+            "answer": ["L'éléphant", "L'hippopotame", "Le rhinocéros"],
+            "goodAnswer": 1
+        },
+        {
+            "title": "Le record du plus grand chien du \nmonde est de quelle race ?",
+            "answer": ["Saint-bernard", "Terre neuve", "Dogue allemand"],
+            "goodAnswer": 2
+        }
+  ]
+}
